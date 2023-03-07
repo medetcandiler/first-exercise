@@ -8,7 +8,6 @@ Hello Everyone. Let me briefly introduce myself to you. First of all I am so gla
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
 
-[Patika.dev Profile](https://app.patika.dev/meddo)
 ---
 
 
